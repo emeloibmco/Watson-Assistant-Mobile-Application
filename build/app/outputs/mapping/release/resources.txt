@@ -1,0 +1,559 @@
+android.content.res.Resources#getIdentifier present: false
+Web content present: true
+Referenced Strings:
+  %s.%sParcelizer
+  .org.chromium.Chromium.
+  0
+  0x%08x
+  ACCESSIBLE_NAVIGATION
+  ACTION_ARGUMENT_EXTEND_SELECTION_BOOLEAN
+  ACTION_ARGUMENT_MOVEMENT_GRANULARITY_INT
+  ACTION_ARGUMENT_SELECTION_END_INT
+  ACTION_ARGUMENT_SELECTION_START_INT
+  AccessibilityBridge
+  AccessibilityChannel
+  AppLifecycleState.detached
+  AppLifecycleState.inactive
+  AppLifecycleState.paused
+  AppLifecycleState.resumed
+  BITMAP
+  BITMAP_MASKABLE
+  BOTTOM_OVERLAYS
+  Brightness.dark
+  Brightness.light
+  CHARACTERS
+  CLICK
+  COPY
+  CREATED
+  CUSTOM_ACTION
+  CUT
+  Clipboard.getData
+  Clipboard.setData
+  DARK
+  DATA
+  DATETIME
+  DECREASE
+  DESTROYED
+  DID_GAIN_ACCESSIBILITY_FOCUS
+  DID_LOSE_ACCESSIBILITY_FOCUS
+  DISABLE_ANIMATIONS
+  DISMISS
+  DartExecutor
+  DartMessenger
+  Destroying.
+  DeviceOrientation.landscapeLeft
+  DeviceOrientation.landscapeRight
+  DeviceOrientation.portraitDown
+  DeviceOrientation.portraitUp
+  EMAIL_ADDRESS
+  Emulator
+  FRAMEWORK_CLIENT
+  FlutterActivity
+  FlutterActivityAndFragmentDelegate
+  FlutterEngine
+  FlutterEnginePluginRegistry
+  FlutterJNI
+  FlutterLoader
+  FlutterRenderer
+  FlutterSharedPreferences
+  FlutterSplashView
+  FlutterSurfaceView
+  FlutterTextureView
+  FlutterView
+  Genymotion
+  HAS_CHECKED_STATE
+  HAS_ENABLED_STATE
+  HAS_IMPLICIT_SCROLLING
+  HAS_TOGGLED_STATE
+  HEAVY_IMPACT
+  HapticFeedback.vibrate
+  HapticFeedbackType.heavyImpact
+  HapticFeedbackType.lightImpact
+  HapticFeedbackType.mediumImpact
+  HapticFeedbackType.selectionClick
+  HardwareIds
+  INCREASE
+  INITIALIZED
+  INVERT_COLORS
+  IS_BUTTON
+  IS_CHECKED
+  IS_ENABLED
+  IS_FOCUSABLE
+  IS_FOCUSED
+  IS_HEADER
+  IS_HIDDEN
+  IS_IMAGE
+  IS_IN_MUTUALLY_EXCLUSIVE_GROUP
+  IS_LINK
+  IS_LIVE_REGION
+  IS_OBSCURED
+  IS_READ_ONLY
+  IS_SELECTED
+  IS_TEXT_FIELD
+  IS_TOGGLED
+  IconCompat
+  InlinedApi
+  LANDSCAPE_LEFT
+  LANDSCAPE_RIGHT
+  LIGHT
+  LIGHT_IMPACT
+  LONG_PRESS
+  LTR
+  LifecycleChannel
+  LifecycleRegistry
+  LocalizationChannel
+  MEDIUM_IMPACT
+  MOVE_CURSOR_BACKWARD_BY_CHARACTER
+  MOVE_CURSOR_BACKWARD_BY_WORD
+  MOVE_CURSOR_FORWARD_BY_CHARACTER
+  MOVE_CURSOR_FORWARD_BY_WORD
+  MULTILINE
+  MethodCallHandlerImpl
+  NAMES_ROUTE
+  NONE
+  NO_ACTIVITY
+  NO_TARGET
+  NUMBER
+  NavigationChannel
+  NewApi
+  OK
+  ON_ANY
+  ON_CREATE
+  ON_DESTROY
+  ON_PAUSE
+  ON_RESUME
+  ON_START
+  ON_STOP
+  PASTE
+  PHONE
+  PLAIN_TEXT
+  PLATFORM_VIEW
+  PORTRAIT_DOWN
+  PORTRAIT_UP
+  PlatformChannel
+  PlatformViewsChannel
+  PlatformViewsController
+  PrivateApi
+  RESOURCE
+  RESUMED
+  RTL
+  SCOPES_ROUTE
+  SCROLL_DOWN
+  SCROLL_LEFT
+  SCROLL_RIGHT
+  SCROLL_UP
+  SELECTION_CLICK
+  SENTENCES
+  SET_SELECTION
+  SHOW_ON_SCREEN
+  STANDARD
+  STARTED
+  Samsung
+  SettingsChannel
+  ShimPluginRegistry
+  ShimRegistrar
+  StorageError
+  SystemChannel
+  SystemChrome.restoreSystemUIOverlays
+  SystemChrome.setApplicationSwitcherDe...
+  SystemChrome.setEnabledSystemUIOverlays
+  SystemChrome.setPreferredOrientations
+  SystemChrome.setSystemUIOverlayStyle
+  SystemGestures.getSystemGestureExclus...
+  SystemGestures.setSystemGestureExclus...
+  SystemNavigator.pop
+  SystemSound.play
+  SystemSoundType.click
+  SystemUiOverlay.bottom
+  SystemUiOverlay.top
+  TAP
+  TEXT
+  TOP_OVERLAYS
+  TextCapitalization.characters
+  TextCapitalization.none
+  TextCapitalization.sentences
+  TextCapitalization.words
+  TextInput.clearClient
+  TextInput.hide
+  TextInput.setClient
+  TextInput.setEditingState
+  TextInput.setPlatformViewClient
+  TextInput.show
+  TextInputAction.done
+  TextInputAction.go
+  TextInputAction.newline
+  TextInputAction.next
+  TextInputAction.none
+  TextInputAction.previous
+  TextInputAction.search
+  TextInputAction.send
+  TextInputAction.unspecified
+  TextInputChannel
+  TextInputClient.performAction
+  TextInputClient.requestExistingInputS...
+  TextInputClient.updateEditingState
+  TextInputType.datetime
+  TextInputType.emailAddress
+  TextInputType.multiline
+  TextInputType.number
+  TextInputType.phone
+  TextInputType.text
+  TextInputType.url
+  TextInputType.visiblePassword
+  UNKNOWN
+  URI
+  URL
+  UTF8
+  UrlLauncherPlugin
+  V:
+  VGhpcyBpcyB0aGUgcHJlZml4IGZvciBCaWdJb...
+  VGhpcyBpcyB0aGUgcHJlZml4IGZvciBEb3VibGUu
+  VGhpcyBpcyB0aGUgcHJlZml4IGZvciBhIGxpc3Qu
+  VISIBLE_PASSWORD
+  WORDS
+  accessibility
+  actionLabel
+  activity.window
+  activity.window.decorView
+  addView
+  alwaysUse24HourFormat
+  android
+  android.intent.action.RUN
+  android.intent.action.VIEW
+  android.util.LongArray
+  android.view.View
+  android.widget.Button
+  android.widget.CheckBox
+  android.widget.EditText
+  android.widget.HorizontalScrollView
+  android.widget.ImageView
+  android.widget.RadioButton
+  android.widget.ScrollView
+  android.widget.SeekBar
+  android.widget.Switch
+  androidId
+  android_id
+  anim
+  animate
+  announce
+  args
+  autocorrect
+  background_mode
+  base
+  baseOS
+  board
+  bootloader
+  bottom
+  brand
+  cached_engine_id
+  call
+  canLaunch
+  character
+  clear
+  clearFocus
+  clipboard
+  closeWebView
+  codePoint
+  codename
+  color
+  com.android.browser.headers
+  commit
+  composingBase
+  composingExtent
+  create
+  dark
+  data
+  decimal
+  default_input_method
+  destroy_engine_with_activity
+  device
+  deviceId
+  direction
+  display
+  dispose
+  emulator
+  enableDomStorage
+  enableJavaScript
+  enableSuggestions
+  error
+  extent
+  fingerprint
+  flags
+  flutter
+  flutter.
+  flutter/accessibility
+  flutter/isolate
+  flutter/keyevent
+  flutter/lifecycle
+  flutter/localization
+  flutter/navigation
+  flutter/platform
+  flutter/platform_views
+  flutter/settings
+  flutter/system
+  flutter/textinput
+  flutter_assets
+  generic
+  get
+  getAll
+  getAndroidDeviceInfo
+  getChildId
+  getParentNodeId
+  getResId
+  getResPackage
+  getSourceNodeId
+  getnavigationbarcolor
+  getstatusbarcolor
+  goldfish
+  google_sdk
+  hardware
+  headers
+  height
+  host
+  id
+  incremental
+  initial_route
+  inputAction
+  inputType
+  inputTypeError
+  input_method
+  io.flutter.Entrypoint
+  io.flutter.InitialRoute
+  io.flutter.embedding.android.NormalTheme
+  io.flutter.embedding.android.SplashSc...
+  io.flutter.plugins.GeneratedPluginReg...
+  isPhysicalDevice
+  isolate_snapshot_data
+  java.
+  key
+  keyCode
+  keydown
+  keymap
+  keyup
+  label
+  launch
+  left
+  libapp.so
+  libflutter.so
+  light
+  longPress
+  mChildNodeIds
+  main
+  manufacturer
+  memoryPressure
+  message
+  metaState
+  method
+  model
+  name
+  nodeId
+  obscureText
+  opaque
+  params
+  plainCodePoint
+  platformBrightness
+  plugins.flutter.io/device_info
+  plugins.flutter.io/shared_preferences
+  plugins.flutter.io/url_launcher
+  plugins.fuyumi.com/statusbar
+  popRoute
+  previewSdkInt
+  primaryColor
+  product
+  productId
+  ranchu
+  read
+  registerWith
+  registrar
+  release
+  remove
+  removeView
+  removeViewImmediate
+  repeatCount
+  resize
+  result
+  right
+  samsung
+  scanCode
+  sdk
+  sdkInt
+  sdk_google
+  sdk_x86
+  securityPatch
+  selectionBase
+  selectionExtent
+  setBool
+  setDirection
+  setDouble
+  setInitialRoute
+  setInt
+  setLocale
+  setString
+  setStringList
+  setnavigationbarcolor
+  setnavigationbarwhiteforeground
+  setstatusbarcolor
+  setstatusbarwhiteforeground
+  signed
+  simulator
+  source
+  statusBarColor
+  statusBarIconBrightness
+  supported32BitAbis
+  supported64BitAbis
+  supportedAbis
+  surface
+  systemFeatures
+  systemNavigationBarColor
+  systemNavigationBarDividerColor
+  systemNavigationBarIconBrightness
+  tags
+  tap
+  text
+  text/plain
+  textCapitalization
+  textScaleFactor
+  texture
+  tooltip
+  top
+  touch
+  transition_animation_scale
+  transparent
+  type
+  unknown
+  updateViewLayout
+  url
+  useWebView
+  value
+  vbox86p
+  vendorId
+  version
+  viewFocused
+  viewType
+  vm_snapshot_data
+  whiteForeground
+  width
+  window
+  write
+  x
+Marking id:left:2131034136 used because its prefix matches string pool constant left
+Marking id:right:2131034144 used because its prefix matches string pool constant right
+Marking id:right_icon:2131034145 used because its prefix matches string pool constant right
+Marking id:right_side:2131034146 used because its prefix matches string pool constant right
+Marking id:text:2131034151 used because its prefix matches string pool constant text
+Marking id:text2:2131034152 used because its prefix matches string pool constant text
+Marking id:top:2131034155 used because its prefix matches string pool constant top
+Marking attr:keylines:2130771980 used because its prefix matches string pool constant key
+Marking drawable:launch_background:2130968577 used because its prefix matches string pool constant launch
+Marking attr:android_color:-1 used because its prefix matches string pool constant android
+Marking attr:android_alpha:-1 used because its prefix matches string pool constant android
+Marking attr:android_layout_gravity:-1 used because its prefix matches string pool constant android
+Marking attr:android_fontStyle:-1 used because its prefix matches string pool constant android
+Marking attr:android_font:-1 used because its prefix matches string pool constant android
+Marking attr:android_fontWeight:-1 used because its prefix matches string pool constant android
+Marking attr:android_fontVariationSettings:-1 used because its prefix matches string pool constant android
+Marking attr:android_ttcIndex:-1 used because its prefix matches string pool constant android
+Marking attr:android_startColor:-1 used because its prefix matches string pool constant android
+Marking attr:android_centerColor:-1 used because its prefix matches string pool constant android
+Marking attr:android_endColor:-1 used because its prefix matches string pool constant android
+Marking attr:android_type:-1 used because its prefix matches string pool constant android
+Marking attr:android_gradientRadius:-1 used because its prefix matches string pool constant android
+Marking attr:android_centerX:-1 used because its prefix matches string pool constant android
+Marking attr:android_centerY:-1 used because its prefix matches string pool constant android
+Marking attr:android_startX:-1 used because its prefix matches string pool constant android
+Marking attr:android_startY:-1 used because its prefix matches string pool constant android
+Marking attr:android_endX:-1 used because its prefix matches string pool constant android
+Marking attr:android_endY:-1 used because its prefix matches string pool constant android
+Marking attr:android_tileMode:-1 used because its prefix matches string pool constant android
+Marking attr:android_offset:-1 used because its prefix matches string pool constant android
+Marking id:bottom:2131034120 used because its prefix matches string pool constant bottom
+Resource Reference Graph:
+color:notification_action_color_filter:2130837505 => [color:secondary_text_default_material_light:2130837508]
+dimen:notification_media_narrow_margin:2130903054 => [dimen:notification_content_margin_start:2130903050]
+drawable:launch_background:2130968577 => [color:splash_background:2130837509]
+drawable:notification_action_background:2130968578 => [color:ripple_material_light:2130837507, dimen:compat_button_inset_vertical_material:2130903041, dimen:compat_button_inset_horizontal_material:2130903040, dimen:compat_control_corner_material:2130903044, dimen:compat_button_padding_vertical_material:2130903043, dimen:compat_button_padding_horizontal_material:2130903042]
+drawable:notification_bg:2130968579 => [drawable:notification_bg_normal_pressed:2130968584, drawable:notification_bg_normal:2130968583]
+drawable:notification_bg_low:2130968580 => [drawable:notification_bg_low_pressed:2130968582, drawable:notification_bg_low_normal:2130968581]
+drawable:notification_icon_background:2130968585 => [color:notification_icon_bg_color:2130837506]
+drawable:notification_tile_bg:2130968588 => [drawable:notify_panel_notification_icon_bg:2130968589]
+layout:notification_action:2131165184 => [style:Widget_Compat_NotificationActionContainer:2131361798, dimen:notification_action_icon_size:2130903047, style:Widget_Compat_NotificationActionText:2131361799]
+layout:notification_action_tombstone:2131165185 => [style:Widget_Compat_NotificationActionContainer:2131361798, dimen:notification_action_icon_size:2130903047, style:Widget_Compat_NotificationActionText:2131361799]
+layout:notification_template_custom_big:2131165186 => [dimen:notification_large_icon_height:2130903051, dimen:notification_large_icon_width:2130903052, dimen:notification_main_column_padding_top:2130903053, dimen:notification_content_margin_start:2130903050, dimen:notification_right_side_padding_top:2130903056, layout:notification_template_part_time:2131165189, layout:notification_template_part_chronometer:2131165188, style:TextAppearance_Compat_Notification_Info:2131361794, layout:notification_template_icon_group:2131165187]
+layout:notification_template_icon_group:2131165187 => [dimen:notification_large_icon_height:2130903051, dimen:notification_large_icon_width:2130903052, dimen:notification_big_circle_margin:2130903049, dimen:notification_right_icon_size:2130903055]
+layout:notification_template_part_chronometer:2131165188 => [style:TextAppearance_Compat_Notification_Time:2131361796]
+layout:notification_template_part_time:2131165189 => [style:TextAppearance_Compat_Notification_Time:2131361796]
+mipmap:ic_launcher:2131230720 => [color:ic_launcher_background:2130837504, drawable:ic_launcher_foreground:2130968576]
+style:LaunchTheme:2131361792 => [drawable:launch_background:2130968577]
+style:TextAppearance_Compat_Notification_Info:2131361794 => [style:TextAppearance_Compat_Notification:2131361793, style:TextAppearance_Compat:-1, style:TextAppearance:-1]
+style:TextAppearance_Compat_Notification_Line2:2131361795 => [style:TextAppearance_Compat_Notification_Info:2131361794]
+style:TextAppearance_Compat_Notification_Time:2131361796 => [style:TextAppearance_Compat_Notification:2131361793, style:TextAppearance_Compat:-1, style:TextAppearance:-1]
+style:Widget_Compat_NotificationActionContainer:2131361798 => [drawable:notification_action_background:2130968578]
+style:Widget_Compat_NotificationActionText:2131361799 => [color:secondary_text_default_material_light:2130837508, dimen:notification_action_text_size:2130903048]
+
+The root reachable resources are:
+attr:keylines:2130771980,
+   drawable:launch_background:2130968577,
+   id:bottom:2131034120,
+   id:left:2131034136,
+   id:right:2131034144,
+   id:right_icon:2131034145,
+   id:right_side:2131034146,
+   id:text:2131034151,
+   id:text2:2131034152,
+   id:top:2131034155,
+   mipmap:ic_launcher:2131230720,
+   style:LaunchTheme:2131361792,
+   attr:android_color:-1,
+   attr:android_alpha:-1,
+   attr:android_layout_gravity:-1,
+   attr:android_fontStyle:-1,
+   attr:android_font:-1,
+   attr:android_fontWeight:-1,
+   attr:android_fontVariationSettings:-1,
+   attr:android_ttcIndex:-1,
+   attr:android_startColor:-1,
+   attr:android_centerColor:-1,
+   attr:android_endColor:-1,
+   attr:android_type:-1,
+   attr:android_gradientRadius:-1,
+   attr:android_centerX:-1,
+   attr:android_centerY:-1,
+   attr:android_startX:-1,
+   attr:android_startY:-1,
+   attr:android_endX:-1,
+   attr:android_endY:-1,
+   attr:android_tileMode:-1,
+   attr:android_offset:-1
+Skipped unused resource res/drawable/notification_bg.xml: -1 bytes (replaced with small dummy file of size 104 bytes)
+Skipped unused resource res/drawable/notification_bg_low.xml: -1 bytes (replaced with small dummy file of size 104 bytes)
+Skipped unused resource res/drawable/notification_icon_background.xml: -1 bytes (replaced with small dummy file of size 104 bytes)
+Skipped unused resource res/drawable/notification_tile_bg.xml: -1 bytes (replaced with small dummy file of size 104 bytes)
+Skipped unused resource res/drawable-v21/notification_action_background.xml: -1 bytes (replaced with small dummy file of size 104 bytes)
+Skipped unused resource res/drawable-mdpi-v4/notification_bg_low_normal.9.png: 215 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-mdpi-v4/notification_bg_low_pressed.9.png: 223 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-mdpi-v4/notification_bg_normal.9.png: 215 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-mdpi-v4/notification_bg_normal_pressed.9.png: 223 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-mdpi-v4/notify_panel_notification_icon_bg.png: 98 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/drawable-hdpi-v4/notification_bg_low_normal.9.png: 212 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-hdpi-v4/notification_bg_low_pressed.9.png: 225 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-hdpi-v4/notification_bg_normal.9.png: 212 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-hdpi-v4/notification_bg_normal_pressed.9.png: 225 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-hdpi-v4/notify_panel_notification_icon_bg.png: 107 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/drawable-xhdpi-v4/notification_bg_low_normal.9.png: 221 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-xhdpi-v4/notification_bg_low_pressed.9.png: 252 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-xhdpi-v4/notification_bg_normal.9.png: 221 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-xhdpi-v4/notification_bg_normal_pressed.9.png: 247 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-xhdpi-v4/notify_panel_notification_icon_bg.png: 138 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/layout/notification_action.xml: -1 bytes (replaced with small dummy file of size 104 bytes)
+Skipped unused resource res/layout-v17/notification_action.xml: -1 bytes (replaced with small dummy file of size 104 bytes)
+Skipped unused resource res/layout/notification_action_tombstone.xml: -1 bytes (replaced with small dummy file of size 104 bytes)
+Skipped unused resource res/layout-v17/notification_action_tombstone.xml: -1 bytes (replaced with small dummy file of size 104 bytes)
+Skipped unused resource res/layout-v16/notification_template_custom_big.xml: -1 bytes (replaced with small dummy file of size 104 bytes)
+Skipped unused resource res/layout-v17/notification_template_custom_big.xml: -1 bytes (replaced with small dummy file of size 104 bytes)
+Skipped unused resource res/layout/notification_template_icon_group.xml: -1 bytes (replaced with small dummy file of size 104 bytes)
+Skipped unused resource res/layout/notification_template_part_chronometer.xml: -1 bytes (replaced with small dummy file of size 104 bytes)
+Skipped unused resource res/layout/notification_template_part_time.xml: -1 bytes (replaced with small dummy file of size 104 bytes)
+Skipped unused resource res/layout-v21/notification_action.xml: -1 bytes (replaced with small dummy file of size 104 bytes)
+Skipped unused resource res/layout-v21/notification_action_tombstone.xml: -1 bytes (replaced with small dummy file of size 104 bytes)
+Skipped unused resource res/layout-v21/notification_template_custom_big.xml: -1 bytes (replaced with small dummy file of size 104 bytes)
+Skipped unused resource res/layout-v21/notification_template_icon_group.xml: -1 bytes (replaced with small dummy file of size 104 bytes)

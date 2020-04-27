@@ -1,0 +1,51 @@
+name: watsonapp
+description: Watson Assistant V2 App
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.2.2 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # The following adds the Cupertino Icons font to your application.
+  # Use with the CupertinoIcons class for iOS style icons.
+  cupertino_icons: ^0.1.3
+  http: ^0.12.0+4
+  shared_preferences: ^0.5.6+3
+  flare_flutter: ^2.0.3
+  flutter_launcher_icons: ^0.7.4
+  page_transition: ^1.1.5
+  intl: ^0.16.1
+  link_text: ^0.1.2
+  device_info: ^0.4.2+1
+  flutter_statusbarcolor: ^0.2.3
+
+flutter_icons:
+  android: true
+  ios: true
+  image_path_android: "assets/images/ic_launcher_black.png"
+  image_path_ios: "assets/images/ic_launcher_black.png"
+  adaptive_icon_foreground: "assets/images/ic_launcher_black_padding.png"
+  adaptive_icon_background: "#1E1E1E"
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  json_serializable: ^3.2.5
+
+
+# The following section is specific to Flutter.
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    - assets/flare/
+    - assets/images/
+
+
+
