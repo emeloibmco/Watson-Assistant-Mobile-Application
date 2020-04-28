@@ -2,7 +2,7 @@ import 'package:watsonapp/utils/watson_assistant_v2.dart';
 
 class WatsonHelper {
   final _waCredentials = WAConfig(
-      version: "",
+      version: "2020-02-05",
       apiKey: "",
       url: "",
       assistantID: "");
