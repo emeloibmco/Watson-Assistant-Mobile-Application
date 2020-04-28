@@ -1,4 +1,4 @@
-# Aplicación Móvil implementando la API de Watson Assistant V2 
+# Aplicación Móvil - API de Watson Assistant V2 
 
 > <p>Para plataformas iOS y Android  <img width="3.3%" src="assets/apple.jpg"><img width="2.7%" src="assets/android.png"></p>
 
