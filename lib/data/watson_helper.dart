@@ -17,18 +17,27 @@ class WatsonHelper {
     List<String> returnTxt = new List();
     print("Send to Watson: " + inputText.toString());
     await _assistant.sendMsg(inputText).then((res) => {
-          print("Respuesta Watson: " + res.toString()),
-          if (res['output']['generic'].length == 0)
-            {
-              returnTxt.add("Estamos presentando inconvenientes, intenta más tarde."),
-            }
-          else if (res['output']['generic'][0]['response_type'] == 'suggestion')
-            {returnTxt.add("No entiendo. Intenta reformular tu pregunta")}
-          else
+      print("Respuesta Watson: " + res.toString()),
+      if (res['output']['generic'].length == 0)
+        {
+          returnTxt.add("Estamos presentando inconvenientes, intenta más tarde."),
+        }
+      else
+        {
+          if (res['output']['generic'][0]['response_type'] == 'text')
             {
               for (int i = 0; i < res['output']['generic'].length; i++) {returnTxt.add(res['output']['generic'][i]['text'])},
             }
-        });
+          else if (res['output']['generic'][0]['response_type'] == 'option')
+            {
+              returnTxt.add(res['output']['generic'][0]['title']),
+              for (int i = 0; i < res['output']['generic'][0]['options'].length; i++)
+                {returnTxt.add(res['output']['generic'][0]['options'][i]['label'])},
+            }
+          else if (res['output']['generic'][0]['response_type'] == 'suggestion')
+              {returnTxt.add("Por el momento la aplicación no soporta suggestion type :(. Por favor reformula la pregunta.")},
+        }
+    });
     return returnTxt;
   }
 
