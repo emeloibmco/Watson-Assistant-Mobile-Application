@@ -8,9 +8,6 @@ La API Assistant v2 proporciona métodos de tiempo de ejecución que su aplicaci
 
 [Watson Assistant V2 API Reference](https://cloud.ibm.com/apidocs/assistant/assistant-v2)
 
-## Descargar aplicación 📥
-
-Click [aquí]() para descargar el APK.
 > Para ejecutar en iOS se debe compilar directamente al iPhone en Sistema Operativo macOS.
 
 ## Para desarrolladores
