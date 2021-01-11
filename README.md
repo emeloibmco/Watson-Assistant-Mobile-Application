@@ -2,6 +2,12 @@
 
 > <p>Para plataformas iOS y Android  <img width="3.3%" src="assets/apple.jpg"><img width="2.7%" src="assets/android.png"></p>
 
+<p align="left">
+  <img width="30%" src="assets/chat_view.png">
+  <img width="30%" src="assets/estadisticas_colombia.png">
+  <img width="30%" src="assets/estadisticas_global.png">
+</p>
+
 El servicio IBM Watson ™ Assistant combina aprendizaje automático, comprensión del lenguaje natural y un editor de diálogo integrado para crear flujos de conversación entre sus aplicaciones y sus usuarios.
 
 La API Assistant v2 proporciona métodos de tiempo de ejecución que su aplicación cliente puede usar para enviar la entrada del usuario a un asistente y recibir una respuesta.
